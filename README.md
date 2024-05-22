@@ -6,7 +6,7 @@ sudo apt install espeak
 ```
 ## 🐝To use: ##
 ```sh
-git clone https://github.com/valaxair/beeSpeak/ && cd beeSpeak && chmod u+r+x beespeak.sh && ./beespeak.sh
+git clone https://github.com/valaxiar/beeSpeak/ && cd beeSpeak && chmod u+r+x beespeak.sh && ./beespeak.sh
 ```
 
 ## Credits: ##
