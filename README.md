@@ -1,5 +1,6 @@
 # beeSpeak
 ## A shell-based program that speaks the entirety of the Bee Movie script using eSpeak
+## Yes, I know it's stupid🤷
 ### You must have eSpeak installed to run beeSpeak. To install it on an APT based system, run the following command:
 ```sh
 sudo apt install espeak
